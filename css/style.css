@@ -230,7 +230,7 @@ a.elemadded:hover {
   -moz-transition: all 0.2s ease-in-out;
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  background: url('../upload/slide/5.jpg') center fixed;
+  /*background: url('../upload/slide/5.jpg') center fixed;*/
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -250,7 +250,7 @@ a.elemadded:hover {
   margin-left: -350px;
   height: 100%;
   top: 0;
-  background: url('../upload/slide/6.jpg') center fixed;
+  /*background: url('../upload/slide/6.jpg') center fixed;*/
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
